@@ -8,4 +8,4 @@ Oh hey I made that work! I just type in the new commit message in quotes after "
 
 Next up I'll be editing this, as well as wackyExp, to then test oy capabilities for changing committed files. Maybe I'll even edit the html in my CSS art file, WHOA!
 
- 
+Testing some more! 
