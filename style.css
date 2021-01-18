@@ -1,0 +1,191 @@
+.square-1 {
+		height: 300px;
+		width: 300px;
+		background-color: red;
+		position: relative;
+		left: 500px;
+		top: 100px;
+		z-index: 3;
+	}
+		
+	.mouth {
+		height: 85px;
+		width: 155px;
+		border-bottom: 10px solid black;
+		border-top: 5px solid transparent;
+		border-radius: 50%;
+		background-color: transparent;
+		position: absolute;
+		left: 73px;
+		top: 95px;
+		z-index: 15;
+	 }
+	 
+	 .tooth-1 {
+	  width: 0;
+      height: 0;
+      border-left: 15px solid transparent;
+      border-right: 15px solid transparent;
+      border-top: 23px solid #f9f99a;
+      border-radius: 50%;
+	  position: absolute;
+	  top: 175px;
+	  left: 80px;
+	  transform: rotate(30deg);
+	  z-index: 4;
+	  }
+	  
+	.tooth-2 {
+	  width: 0;
+      height: 0;
+      border-left: 17px solid transparent;
+      border-right: 17px solid transparent;
+      border-top: 25px solid #f9f99a;
+      border-radius: 50%;
+	  position: absolute;
+	  top: 175px;
+	  left: 190px;
+	  transform: rotate(330deg);
+	  z-index: 4;
+	  }
+	
+	.tooth-3 {
+	  width: 0;
+      height: 0;
+      border-left: 10px solid transparent;
+      border-right: 10px solid transparent;
+      border-top: 17px solid #f9f99a;
+      border-radius: 50%;
+	  position: absolute;
+	  top: 185px;
+	  left: 110px;
+	  transform: rotate(10deg);
+	  z-index: 4;
+	  }
+	
+	.left-eye {
+		height: 55px;
+		width: 55px;
+		background-color: white;
+		border-radius: 50%;
+		position: absolute;
+		left: 65px;
+		top: 45px;
+		z-index: 25;
+		}
+		
+	.left-pupil {
+		height: 11px;
+		width: 11px;
+		background-color: black;
+		border-radius: 50%;
+		position: absolute;
+		top: 23px;
+		left: 22px;
+		z-index: 26;
+		}
+		
+	.left-lid {
+		height: 45px;
+		width: 55px;
+		border-bottom: 15px solid black;
+		border-top: 13px solid black;
+		border-radius: 50%;
+		position: absolute;
+		left: 0px;
+		bottom: -10px;
+		z-index: 27;
+		}
+		
+	.right-eye {
+		height: 65px;
+		width: 65px;
+		background-color: white;
+		border-radius: 50%;
+		position: absolute;
+		left: 175px;
+		top: 40px;
+		z-index: 19;
+		}
+		
+	.right-pupil {
+		height: 37px;
+		width: 37px;
+		background-color: black;
+		border-radius: 50%;
+		position: absolute;
+		top: 14px;
+		left: 14px;
+		z-index: 20;
+		}
+		
+	.arms {
+		height: 250px;
+		width: 400px;
+		border: 35px solid red;
+		border-radius: 50%;
+		position: absolute;
+		top: 60px;
+		left: -85px;
+		z-index: 0;
+		}
+		
+	.arm-cover {
+		height: 180px;
+		width: 800px;
+		background-color: white;
+		position: absolute;
+		top: 125px;
+		left: -35px;
+		z-index: 1;
+		}
+	
+	.arm-cover-2 {
+		height: 75px;
+		width: 300px;
+		background-color: red;
+		position: absolute;
+		top: 125px;
+		right: 50px;
+		z-index: 2;
+		}
+	.square-3 {
+		height: 300px;
+		width: 550px;
+		background-color: white;
+		position: absolute;
+		left: 105px;
+		bottom: 1010px;
+		z-index: 2;
+		}
+	
+	.left-mitten {
+		height: 35px;
+		width: 35px;
+		background-color: red;
+		border-radius: 50%;
+		position: absolute;
+		left: -85px;
+		top: 205px;
+		z-index: 3;
+		}
+		
+	.right-mitten {
+		height: 35px;
+		width: 35px;
+		background-color: red;
+		border-radius: 50%;
+		position: absolute;
+		left: 350px;
+		top: 205px;
+		z-index: 3;
+		}
+	.square-4 {
+		height: 50px;
+		width: 100px;
+		background-color: white;
+		position: absolute;
+		left: 100px;
+		top: 255px;
+		z-index: 9;
+		}
