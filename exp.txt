@@ -1,0 +1,3 @@
+This is an experimental text file within my FirstCSSart repo, that I'm going to play with in order to learn about undoing changes in Git. WHOOPEE!!!
+
+Oh, correction! This file does not currently exist in the FirstCSSart repository, because this was done in a "detached HEAD" state. As Atlassian tells me, "nothing you do here will be saved in your current repository." 
